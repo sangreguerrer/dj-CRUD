@@ -1,0 +1,5 @@
+/.ai
+/.idea
+local_settings.py
+venv
+logistic/__pycache__
